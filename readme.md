@@ -31,11 +31,11 @@ _start:
 
 當執行`push`完由下圖可以看出堆疊為先r2再r1再r0(sp依其遞減)
 
-![](https://github.com/pohsaung/ESEmbedded_HW02/blob/master/push.jpg)
+![](https://github.com/pohsaung/ESEmbedded_HW02/push1.jpg)
 
 當執行到`pop`完由下圖可以看出先r3再r4再r5(sp依其遞加)
 
-![](https://github.com/pohsaung/ESEmbedded_HW02/blob/master/pop.jpg)
+![](https://github.com/pohsaung/ESEmbedded_HW02/pop1.jpg)
 
 ## 3. 結果與討論
  1. 由上方實驗可以看出`push`和`pop`sp的增減方向相反，也就是FILO
