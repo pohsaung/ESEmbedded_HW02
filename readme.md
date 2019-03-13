@@ -39,7 +39,7 @@ _start:
 
 ![](https://github.com/pohsaung/ESEmbedded_HW02/blob/master/push1.jpg)
 
-當執行到`pop`完由下圖可以看出由register大的先存入
+當執行到`pop`完由下圖可以看出由register小的先取出
 
 ![](https://github.com/pohsaung/ESEmbedded_HW02/blob/master/pop1.jpg)
 
